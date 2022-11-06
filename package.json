@@ -1,0 +1,22 @@
+{
+  "name": "szechenyi-logo",
+  "version": "1.0.0",
+  "description": "Szechenyi logo package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Csabikahhh/szechenyi-logo.git"
+  },
+  "keywords": [
+    "szechenyi-logo"
+  ],
+  "author": "Csaba Ovari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Csabikahhh/szechenyi-logo/issues"
+  },
+  "homepage": "https://github.com/Csabikahhh/szechenyi-logo#readme"
+}
